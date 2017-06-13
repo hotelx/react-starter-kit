@@ -33,6 +33,7 @@
     "pretty-error": "^2.1.0",
     "prop-types": "^15.5.10",
     "query-string": "^4.3.4",
+    "rc-queue-anim": "^1.0.5",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "sequelize": "^3.30.4",
